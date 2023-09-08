@@ -1434,6 +1434,7 @@
       <string id="acc_three_image_count_of_total_item_visited">просмотрено %count% из %total% предметов</string>
       <string id="three_image_count_of_total_visited">просмотрено %count% из %total%</string>
       <string id="accessible_text">Доступный текст</string>
+      <string id="background_audio">Фоновый звук</string>
       <string id="acc_enter_fullscreen">Войти в полноэкранный режим</string>
       <string id="acc_exit_fullscreen">Выйти из полноэкранного режима</string>
       <string id="keyboardshortcuts_lower">Сочетания клавиш на клавиатуре</string>
@@ -1490,6 +1491,7 @@
       <string id="shortcut">Сочетание клавиш</string>
       <string id="submit_shortcut">Добавить слайд</string>
       <string id="acctext_shortcut">Переключить субтитры</string>
+      <string id="background_audio_shortcut">Включить фоновый звук</string>
       <string id="closedcaptions_shortcut">Переключить доступный текст</string>
       <string id="fullscreen_shortcut">Переключить полноэкранный режим</string>
       <string id="togglezoom">Переключить масштаб по размеру</string>
@@ -1548,6 +1550,17 @@
       <string id="acc_submit">отправить</string>
       <string id="submit_tip">Добавить</string>
       <string id="unmute_tip">Вкл. звук</string>
+      <string id="transcript_auto_scroll">Автопрокрутка</string>
+      <string id="acc_window_close">Закрыть</string>
+      <string id="acc_video_transcript_list">Запись</string>
+      <string id="acc_window_move">Переместить окно</string>
+      <string id="acc_modern_video_transcript">Открыть</string>
+      <string id="acc_window_resize">Изменить размер окна</string>
+      <string id="video_transcript_resume_autoscroll">Возобновить автопрокрутку</string>
+      <string id="video_transcript_select_track">Выбрать трек</string>
+      <string id="transcript_show_timestamp">Показать временные метки</string>
+      <string id="video_transcript_title">Записи</string>
+      <string id="acc_window_options">Параметры</string>
       <string id="acc_volume">громкость</string>
     </string_table>
   </string_tables>
